@@ -9,6 +9,7 @@ App for people who want to buy animals. On frontend-side you can see all animals
 * [Postgres](https://www.postgresql.org/download/)
 * [Docker](https://www.docker.com)
 * Postgres - password: postgres username: postgres
+* Stripe copy secret key to application.properties
 
 ### How to run the app?
 
