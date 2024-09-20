@@ -1,8 +1,6 @@
 # Animal
-
-App for people who want to buy animals. On frontend-side you can see all animals and purchase them  if you are logged in.
-![image](https://user-images.githubusercontent.com/58554458/208660538-857ac7c1-b974-4974-9038-74ab5d9747cd.png)
-
+Application for people who want to buy animals. On frontend-side you can see all animals and purchase them if you are logged in. A group project prepared for university classes.
+![image](https://user-images.githubusercontent.com/58554458/208656998-317b181f-f2f3-492a-ab91-b57dfa924f1e.png)
 
 ### How to make app runnable?
 
@@ -13,11 +11,11 @@ App for people who want to buy animals. On frontend-side you can see all animals
 
 ### How to run the app?
 
-* in terminal docker compose up(if you want to restart docker compose down and docker system prune -a)
-* run the app from Intelij
+* in terminal docker compose up (if you want to restart docker compose down and docker system prune -a)
+* run the app from InteliJ
 
 ### Collaborators
 
 * Anna Ledworowska
-* Szymon Lichota
 * Julia Komorowska
+* Szymon Lichota
